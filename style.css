@@ -30,7 +30,7 @@ h1{
 
 }
 .cont{
-height: 70vh;
+height: 90vh;
 display: flex;
 
 justify-content: center;  
@@ -38,7 +38,7 @@ align-items: center;
 }
 .game{
 height: 60vmin;
-width: 60vmin;
+width: 90vmin;
 display: flex;
 flex-wrap: wrap;
 justify-content: center;  
